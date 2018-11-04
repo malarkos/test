@@ -2,15 +2,11 @@
 
 <body>
 
-
-
 <?php
 
 phpinfo();
 
 ?>
-
-
 
 </body>
 
